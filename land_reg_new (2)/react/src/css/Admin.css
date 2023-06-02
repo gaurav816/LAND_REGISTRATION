@@ -1,0 +1,16 @@
+.adminform{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.alert{
+    display:none;
+}
+
+.user-details{
+    margin-left: 22.5vw;
+}
+
+.box:hover {
+    box-shadow: 0 0 11px rgba(33,33,33,.2); 
+  }

@@ -1,0 +1,17 @@
+i{
+    font-size: 80px;
+}
+
+.box:hover {
+    box-shadow: 0 0 11px rgba(33,33,33,.2); 
+  }
+
+  .black-btn{
+    color:black;
+    background-color:white
+  }
+
+  .white-btn{
+    color:white;
+    background-color: black;
+  }
